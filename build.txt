@@ -1,6 +1,6 @@
 displayName = MunakasMod
 author = Munakas
-version = 0.4
+version = 0.6.4
 
 hideCode = true
 hideResources = true

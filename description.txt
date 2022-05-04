@@ -1,1 +1,10 @@
 ﻿A funny mod that adds a lot of cool stuff and fried eggs!
+(Under development...)
+
+
+--- What's included at the moment ---
+
+[Enemies]
+- a zombie with fried egg on his face
+[Items]
+- a fried egg
